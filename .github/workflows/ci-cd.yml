@@ -1,8 +1,13 @@
-trigger:
-- main
+name: CI
 
-pool:
-  vmImage: ubuntu-latest
+on:
+  push:
+    branches:
+      - main
 
-steps:
-- script: echo "Hello GitHub CI"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo "Hello"
