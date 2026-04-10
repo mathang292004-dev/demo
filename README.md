@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure Zero to Hero Course
 
 ![Add a heading(13)](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/c64cb363-661d-4411-8a30-9cb55255ba30)
@@ -159,3 +160,6 @@
 ## Day 25: Azure Interview Preparion
 - Review of Key Concepts
 - Interviews Questions and Practice Sessions
+=======
+# git-action
+>>>>>>> 4c20f8623d4b52879883d5ae0216624a60565a18
